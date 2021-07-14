@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jatl/static/css/main.0857e21e.chunk.css",
+    "main.js": "/jatl/static/js/main.2f42ba65.chunk.js",
+    "main.js.map": "/jatl/static/js/main.2f42ba65.chunk.js.map",
+    "runtime-main.js": "/jatl/static/js/runtime-main.5973d739.js",
+    "runtime-main.js.map": "/jatl/static/js/runtime-main.5973d739.js.map",
+    "static/js/2.3df68480.chunk.js": "/jatl/static/js/2.3df68480.chunk.js",
+    "static/js/2.3df68480.chunk.js.map": "/jatl/static/js/2.3df68480.chunk.js.map",
+    "static/js/3.5e21f8be.chunk.js": "/jatl/static/js/3.5e21f8be.chunk.js",
+    "static/js/3.5e21f8be.chunk.js.map": "/jatl/static/js/3.5e21f8be.chunk.js.map",
+    "index.html": "/jatl/index.html",
+    "static/css/main.0857e21e.chunk.css.map": "/jatl/static/css/main.0857e21e.chunk.css.map",
+    "static/js/2.3df68480.chunk.js.LICENSE.txt": "/jatl/static/js/2.3df68480.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5973d739.js",
+    "static/js/2.3df68480.chunk.js",
+    "static/css/main.0857e21e.chunk.css",
+    "static/js/main.2f42ba65.chunk.js"
+  ]
+}
