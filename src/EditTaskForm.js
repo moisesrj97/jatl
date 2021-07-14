@@ -9,6 +9,7 @@ export default function EditTaskForm(props) {
 
   const useStyles = makeStyles({
     form: {
+      width: '100%',
       flexGrow: 1,
       border: 'none',
       fontSize: '1rem',

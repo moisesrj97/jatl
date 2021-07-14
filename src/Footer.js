@@ -11,6 +11,10 @@ export default function Footer() {
       color: darkMode ? 'white' : 'black',
       display: 'flex',
       justifyContent: 'center',
+      alignItems: 'center',
+      justifyItems: 'center',
+      margin: '0 5px',
+      textAlign: 'center',
       '& a': {
         color: darkMode ? '#00e5ff' : null,
       },

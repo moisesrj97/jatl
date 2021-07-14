@@ -27,6 +27,12 @@ export default function Main() {
       backgroundColor: darkMode ? 'rgb(56, 56, 56)' : 'white',
       color: darkMode ? 'white' : 'black',
     },
+    '@media (max-width: 600px)': {
+      container: {
+        width: '90%',
+        minHeight: '75vh',
+      },
+    },
   });
 
   const classes = useStyles();
